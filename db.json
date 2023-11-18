@@ -1,0 +1,26 @@
+{
+    "req": [
+     
+      {
+        "name": "Nadya",
+        "mobile": "+79189789584",
+        "comment": "",
+        "tariff": "bisness",
+        "id": 1
+      },
+      {
+        "name": "Nadya",
+        "mobile": "+79189789584",
+        "comment": "",
+        "tariff": "standart",
+        "id": 2
+      },
+      {
+        "name": "Nadya",
+        "mobile": "+79189789584",
+        "comment": "",
+        "tariff": "standart",
+        "id": 3
+      }
+    ]
+  }
